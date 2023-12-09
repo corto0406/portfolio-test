@@ -64,7 +64,7 @@ button:focus {
 }
 
 .top_image {
-  width: 120px;
+  width: 350px;
   height: auto;
 }
 
@@ -391,3 +391,12 @@ h3 {
 .contact-message {
   width: 100%;
 }
+
+.picture {
+  width: 350px ;
+  height: auto;
+
+}
+
+
+
