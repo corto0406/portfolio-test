@@ -5,7 +5,7 @@ Welcome to my portfolio showcasing my full-stack development abilities. This por
 ## Table of Contents
 
 - [Projects](#projects)
-  - [Pokemon Search](#pokemonApp)
+  - [PokemonApp](#pokemonApp)
   - [Meet](#meet)
   - [This Website](#this-website)
   - [Movie API / Client](#movie-api--client)
@@ -14,7 +14,7 @@ Welcome to my portfolio showcasing my full-stack development abilities. This por
 
 ## Projects
 
-### Pokemon Search
+### PokemonApp
 
 ![PokemonApp](images/pokemon%202.png)
 
@@ -23,7 +23,7 @@ Welcome to my portfolio showcasing my full-stack development abilities. This por
 - **Repository:** [Pokemon Repository](https://github.com/corto0406/pokemon-app)
 - **Live Demo:** [See it deployed](https://corto0406.github.io/pokemon-app/)
 
-### LetsMeet
+### Meet
 
 ![Meet](images/meet.png)
 
